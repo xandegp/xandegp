@@ -1,11 +1,24 @@
-##👋 Hello World 👋
+# 👋 Alexandre Massaki
 
+> **Information Systems Student** at the *University of São Paulo (USP)*
 
+---
 
-I'm Alexandre Massaki, a Information Systems student at the University of São Paulo (USP)
+### 🚀 Focus & Studies
 
-I'm studying about: Structs of Data, Algorithms and other Mathematics subjects.
+I'm currently building a strong foundation in Computer Science, focusing on:
+- 📊 **Data Structures & Algorithms**
+- 📐 **Applied Mathematics**
+- ⚙️ **Systems & Software Architecture**
 
-Currently, the programming languages that I'm learning are: C, Java
+### 💻 Tech Stack
 
+* **Languages:** `C` | `Java`
+* **Core Concepts:** OOP, Memory Management, Algorithmic Complexity
 
+---
+
+### 📫 Connect with me
+
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com)
+* **Email:** `seu-email@usp.br`
